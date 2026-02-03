@@ -59,7 +59,7 @@
     </div>
 
     <canvas id="gameCanvas" style="display:none; position:fixed; top:0; left:0; z-index:200;"></canvas>
-    <audio id="bgMusic" src="September 4.mp3" loop></audio>
+    <audio id="bgMusic"https://indirect-magenta-0ln0zr2dt5.edgeone.app/September%204.mp3" loop></audio>
 
     <script>
         let noCount = 0;
