@@ -54,9 +54,10 @@
     </div>
 
     <canvas id="gameCanvas" style="display:none; position:fixed; top:0; left:0; z-index:200;"></canvas>
-    
-    <audio id="bgMusic" src="https://files.catbox.moe/97808s.mp3" loop></audio>
 
+    
+   <audio id="bgMusic" src="September 4.mp3" loop></audio>
+    
     <script>
         let noCount = 0;
         const noBtn = document.getElementById('noBtn');
